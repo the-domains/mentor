@@ -1,0 +1,28 @@
+name: Mentor
+favicon: null
+layout_spectrum: 0.048660492058843374
+typography_spectrum: 0.3742360158357769
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.2324811010621488
+  lightness: 0.49471209081821144
+  saturation: 0.5987106480170041
+  rhythmicContrast: 0.8612850224599242
+purpose: []
